@@ -10,9 +10,9 @@
                 </div>
                 <div class="col-md-6 col-lg-6">
                     <div class="record-grid">
-                        <div class="students bg-purple-light"><span class="record text-purple">100+</span><span class="label text-purple">Students(HSC) scored 80% & above</span></div>
+                        <div class="students bg-purple-light row-span"><span class="record text-white">100+</span><span class="label text-white">Students(HSC) scored 80% & above</span></div>
                         <div class="faculties bg-light-blue"><span class="record text-g-blue">30+</span><span class="label text-g-blue">Professionals (CA/CMA/CS)</span></div>
-                        <div class="schools bg-purple-light"><span class="record text-purple">50+</span><span class="label text-purple">Students(TYBCOM) scored 80% & above</span></div>
+                        <div class="schools bg-purple-light"><span class="record text-white">50+</span><span class="label text-white">Students(TYBCOM) scored 80% & above</span></div>
                         <div class="institutes bg-light-blue"><span class="record text-g-blue">30+</span><span class="label text-g-blue">Students(SSC) scored 80% & above</span></div>
                     </div>
                 </div>
