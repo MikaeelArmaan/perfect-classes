@@ -1,4 +1,4 @@
-<link rel="icon" href="https://www.mteducare.com/logo-main.png">
+<link rel="icon" href="">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no">
 
 <title>Home - Perfect classes</title>
