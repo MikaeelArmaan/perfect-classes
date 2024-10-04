@@ -1,6 +1,6 @@
 
-<script src="{{ asset('/assets/js/all-scripts.js') }}"></script>
-<script src="{{ asset('/assets/js/owl-carousel.js') }}"></script>
+<script src="{{ mix('/assets/js/all-scripts.js') }}"></script>
+<script src="{{ mix('/assets/js/owl-carousel.js') }}"></script>
 
       <!-- <script src="/js/custom.js"></script> -->
 	  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
@@ -18,8 +18,51 @@
                autoplay: true,
                autoplaySpeed: 2000,
             });
+
+            
+
+            $('.PC-SlickDemoVideos').slick({
+               dots: false,
+               infinite: true,
+               cssEase: 'linear',
+               swipe: true,
+               slidesToShow: 3,
+               slidesToScroll: 1,
+               autoplay: true,
+               autoplaySpeed: 2000,
+               responsive: [
+                  {
+                     breakpoint: 768,
+                     settings: {
+                     arrows: false,
+                     centerMode: true,
+                     centerPadding: "0",
+                     slidesToShow: 1,
+                     },
+                  },
+                  {
+                     breakpoint: 480,
+                     settings: {
+                     arrows: false,
+                     centerMode: true,
+                     centerPadding: "0",
+                     slidesToShow: 1,
+                     },
+                  },
+               ],
+            });
          
-            // $('.MT-OwlDots').slick({
+            $('.PC-SlickDemoVideos2').slick({
+               dots: true,
+               infinite: true,
+               cssEase: 'linear',
+               swipe: false,
+               slidesToShow: 3,
+               slidesToScroll: 1,
+               autoplay: true,
+               autoplaySpeed: 2000,
+            });
+            // $('.PC-SlickDemoVideos').slick({
             //    dots: true,
             //    infinite: true,
             //    cssEase: 'linear',

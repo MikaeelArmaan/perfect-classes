@@ -17,8 +17,8 @@
         <link rel="stylesheet" href="{{ asset('assets/css/' . $cssFile) }}">
     @endforeach -->
     
-    <link rel="stylesheet" href="{{ asset('assets/css/owl-carousel.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/all-styles.css') }}">
+    <link rel="stylesheet" href="{{ mix('assets/css/owl-carousel.css') }}">
+    <link rel="stylesheet" href="{{ mix('assets/css/all-styles.css') }}">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css">
 
 
