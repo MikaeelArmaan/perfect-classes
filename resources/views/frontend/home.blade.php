@@ -10,10 +10,10 @@
                 </div>
                 <div class="col-md-6 col-lg-6">
                     <div class="record-grid">
-                        <div class="students bg-purple-light row-span"><span class="record text-white">100+</span><span class="label text-white">Students(HSC) scored 80% & above</span></div>
+                        <div class="students bg-purple-light row-span"><span class="record text-white">100+</span><span class="label text-white">Students (HSC) scored 80% & above</span></div>
                         <div class="faculties bg-light-blue"><span class="record text-g-blue">30+</span><span class="label text-g-blue">Professionals (CA/CMA/CS)</span></div>
-                        <div class="schools bg-purple-light"><span class="record text-white">50+</span><span class="label text-white">Students(TYBCOM) scored 80% & above</span></div>
-                        <div class="institutes bg-light-blue"><span class="record text-g-blue">30+</span><span class="label text-g-blue">Students(SSC) scored 80% & above</span></div>
+                        <div class="schools bg-purple-light"><span class="record text-white">50+</span><span class="label text-white">Students (TYBCOM) scored 80% & above</span></div>
+                        <div class="institutes bg-light-blue"><span class="record text-g-blue">30+</span><span class="label text-g-blue">Students (SSC) scored 80% & above</span></div>
                     </div>
                 </div>
                
@@ -133,5 +133,133 @@
                 </div>
             </div>
         </div>
-    </section>      
+    </section>
+    
+    
+    <section class="cards" id="demo-videos">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-12 box-radius">
+            <h3 class="headline text-center mb-3">Watch our <span class="text-light-purple">Demo Videos</span></h3>
+            <p class="sub-headline text-center">Take a look at some of our demo sessions to get an idea for what we stand for in educating our student.</p>
+        </div>
+
+        <div class="col-md-12">
+            <!-- <div class="pills">
+                <ul class="nav nav-tabs PC_Tab" id="PC_Tab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" 
+                            id="PC-tabPane-1-tab" 
+                            data-bs-toggle="tab" 
+                            data-bs-target="#PC-tabPane-1"
+                            type="button" 
+                            role="tab" 
+                            aria-controls="PC-tabPane-1" 
+                            aria-selected="true">
+                            IIT
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" 
+                            id="PC-tabPane-2-tab" 
+                            data-bs-toggle="tab" 
+                            data-bs-target="#PC-tabPane-2"
+                            type="button" 
+                            role="tab" 
+                            aria-controls="PC-tabPane-2" 
+                            aria-selected="true">
+                            AIMS
+                        </button>
+                    </li>
+                </ul>
+            </div> -->
+            <div class="tab-content " id="PC_TabContent">
+                <div class="tab-pane   active" id="PC-tabPane-1" >
+                    <div class=" demoVideoConfig PC-SlickDemoVideos ">
+                        <div class="slick-slide " >
+                            <div>
+                                <div class="articles" >
+                                    <div class="article">
+                                        <div class="thumbnail"><iframe width="100%" height="200" src="https://www.youtube.com/embed/KOFbOn7CLQE" frameborder="50" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="Embedded youtube" ></iframe></div>
+                                        <div class="detail">
+                                            <h5>Why do we use it?</h5>
+                                            <div class="description">
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',<span role="button">&nbsp;Read more...</span></p>
+                                            </div>
+                                            <div class="tag-link flex-none">
+                                            <div class="tag purple">Expert Faculty of Perfect classes</div>
+                                            <div class="tag purple">Expert Faculty</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slick-slide " >
+                            <div>
+                                <div class="articles" >
+                                    <div class="article">
+                                        <div class="thumbnail"><iframe width="100%" height="300" src="https://www.youtube.com/embed/KOFbOn7CLQE" frameborder="50" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="Embedded youtube" ></iframe></div>
+                                        <div class="detail">
+                                            <h5>Why do we use it?</h5>
+                                            <div class="description">
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',<span role="button">&nbsp;Read more...</span></p>
+                                            </div>
+                                            <div class="tag-link flex-none">
+                                            <div class="tag purple">Expert Faculty of Perfect classes</div>
+                                            <div class="tag purple">Expert Faculty</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slick-slide " >
+                            <div>
+                                <div class="articles" >
+                                    <div class="article">
+                                        <div class="thumbnail"><iframe width="100%" height="200" src="https://www.youtube.com/embed/KOFbOn7CLQE" frameborder="50" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="Embedded youtube" ></iframe></div>
+                                        <div class="detail">
+                                            <h5>Why do we use it?</h5>
+                                            <div class="description">
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',<span role="button">&nbsp;Read more...</span></p>
+                                            </div>
+                                            <div class="tag-link flex-none">
+                                            <div class="tag purple">Expert Faculty of Perfect classes</div>
+                                            <div class="tag purple">Expert Faculty</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slick-slide " >
+                            <div>
+                                <div class="articles" >
+                                    <div class="article">
+                                        <div class="thumbnail"><iframe width="100%" height="200" src="https://www.youtube.com/embed/KOFbOn7CLQE" frameborder="50" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="Embedded youtube" ></iframe></div>
+                                        <div class="detail">
+                                            <h5>Why do we use it?</h5>
+                                            <div class="description">
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',<span role="button">&nbsp;Read more...</span></p>
+                                            </div>
+                                            <div class="tag-link flex-none">
+                                            <div class="tag purple">Expert Faculty of Perfect classes</div>
+                                            <div class="tag purple">Expert Faculty</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                            
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+        </div>
+    </div>
+</section>
 @endsection

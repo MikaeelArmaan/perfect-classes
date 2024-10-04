@@ -42,15 +42,15 @@
   
   /* ========== Header Modifications End ========== */
   /* ========== pc-educare Nav Tabs Start ========== */
-  .MT_Tab.nav-tabs {
+  .PC_Tab.nav-tabs {
     gap: 40px;
     border: none;
     margin: 0px 0px 20px;
   }
   
-  .MT_Tab.nav-tabs .nav-item {}
+  .PC_Tab.nav-tabs .nav-item {}
   
-  .MT_Tab.nav-tabs .nav-item .nav-link {
+  .PC_Tab.nav-tabs .nav-item .nav-link {
     padding: 8px 18px;
     font-weight: 600;
     font-size: 14px;
@@ -64,20 +64,21 @@
     font-family: "Manrope";
   }
   
-  .MT_Tab.nav-tabs .nav-item .nav-link:hover {
+  .PC_Tab.nav-tabs .nav-item .nav-link:hover {
     border-color: var(--text);
   }
   
-  .MT_Tab.nav-tabs .nav-item .nav-link.active {
-    background: var(--pc-green);
-    color: var(--white);
+  .PC_Tab.nav-tabs .nav-item .nav-link.active {
+    background: var(--pc-light-purple);
+    color: var(--pc-purple);
+    border: 1px solid var(--pc-purple);
   }
   
-  .MT_TabContent.tab-content:focus-visible {
+  .PC_TabContent.tab-content:focus-visible {
     outline: none !important;
   }
   
-  .MT_TabContent.tab-content .tab-pane:focus-visible {
+  .PC_TabContent.tab-content .tab-pane:focus-visible {
     outline: none !important;
   }
   

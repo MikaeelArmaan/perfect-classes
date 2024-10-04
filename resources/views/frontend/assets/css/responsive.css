@@ -1,6 +1,6 @@
 /* ========== X-Small devices (portrait phones, less than 576px) ========== */
 @media (max-width: 576px) {
-    .MT_Tab.nav-tabs {
+    .PC_Tab.nav-tabs {
         gap: 10px;
         justify-content: center;
     }
@@ -175,7 +175,7 @@
         margin-right: 10px;
     }
 
-    .MT_Tab.nav-tabs .nav-item .nav-link {
+    .PC_Tab.nav-tabs .nav-item .nav-link {
         padding: 6px 14px;
         font-size: 12px;
     }
