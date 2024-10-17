@@ -4,12 +4,12 @@
         <div class="col-md-12">
             <div id="banner-main" class="carousel carousel-dark slide carousel-fade" ">
                 <div class="carousel-inner">
-                    <div class="carousel-item banner bg-light-blue active" >
+                    <div class="carousel-item banner bg-purple active" >
                     <div class="row">
                         <div class="col-md-7 col-sm-12">
                             <div class="caption">
-                                <h2>Education beyond Excellence, only at <span class="text-orange">PERFECT CLASSES</span></h2>
-                                <p class="mt-3">Will you be the next star of Perfect classes? Accomplish greatness and be a part of our legacy. Find your course now.</p>
+                                <h2 class="text-white">Education beyond Excellence, only at <span class="text-green">PERFECT CLASSES</span></h2>
+                                <p class="mt-3 text-white">Will you be the next star of Perfect classes? Accomplish greatness and be a part of our legacy. Find your course now.</p>
                             </div>
                         </div>
                         <div class="col-md-5 col-sm-12 sub-slider">
@@ -22,9 +22,9 @@
                                                 <div class="detail">
                                                     <div class="student text-center">
                                                         <img src="https://placehold.co/600x400.png" alt="student" class="photograph">
-                                                        <h3 class="percentage text-blue mt-3">Prof. Krishna</h3>
-                                                        <p class="name mb-2">DTM, DFM, B.Ed, CA</p>
-                                                        <p class="rank-year">22 years of experience</p>
+                                                        <h3 class="percentage text-light-green mt-3">Prof. Krishna</h3>
+                                                        <p class="name mb-2 text-white">DTM, DFM, B.Ed, CA</p>
+                                                        <p class="rank-year text-white">22 years of experience</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -38,9 +38,9 @@
                                                 <div class="detail">
                                                     <div class="student text-center">
                                                         <img src="https://placehold.co/600x400.png" alt="student" class="photograph">
-                                                        <h3 class="percentage text-blue mt-3">CA. Irfan</h3>
-                                                        <p class="name mb-2">MCOM, FCA, FIII</p>
-                                                        <p class="rank-year">22 years of experience</p>
+                                                        <h3 class="percentage text-light-green mt-3">CA. Irfan</h3>
+                                                        <p class="name mb-2 text-white">MCOM, FCA, FIII</p>
+                                                        <p class="rank-year text-white">22 years of experience</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -54,9 +54,9 @@
                                                 <div class="detail">
                                                     <div class="student text-center">
                                                         <img src="https://placehold.co/600x400.png" alt="student" class="photograph">
-                                                        <h3 class="percentage text-blue mt-3">Prof. Ravi</h3>
-                                                        <p class="name mb-2">MCOM, FCA, FIII</p>
-                                                        <p class="rank-year">22 years of experience</p>
+                                                        <h3 class="percentage text-light-green mt-3">Prof. Ravi</h3>
+                                                        <p class="name mb-2  text-white">MCOM, FCA, FIII</p>
+                                                        <p class="rank-year text-white">22 years of experience</p>
                                                     </div>
                                                 </div>
                                             </div>

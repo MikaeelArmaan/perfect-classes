@@ -6,14 +6,14 @@
         <div class="container records ">
             <div class="row">
                 <div class="col-md-6 col-lg-6">
-                    <h3 class="achivements">Our <br><span class="text-orange">30+ years</span> of achievements</h3>
+                    <h3 class="achivements">Our <br><span class="text-green">30+ years</span> of achievements</h3>
                 </div>
                 <div class="col-md-6 col-lg-6">
                     <div class="record-grid">
                         <div class="students bg-purple-light row-span"><span class="record text-white">100+</span><span class="label text-white">Students (HSC) scored 80% & above</span></div>
-                        <div class="faculties bg-light-blue"><span class="record text-g-blue">30+</span><span class="label text-g-blue">Professionals (CA/CMA/CS)</span></div>
+                        <div class="faculties bg-purple"><span class="record text-white">30+</span><span class="label text-white">Professionals (CA/CMA/CS)</span></div>
                         <div class="schools bg-purple-light"><span class="record text-white">50+</span><span class="label text-white">Students (TYBCOM) scored 80% & above</span></div>
-                        <div class="institutes bg-light-blue"><span class="record text-g-blue">30+</span><span class="label text-g-blue">Students (SSC) scored 80% & above</span></div>
+                        <div class="institutes bg-purple"><span class="record text-white">30+</span><span class="label text-white">Students (SSC) scored 80% & above</span></div>
                     </div>
                 </div>
                
@@ -83,7 +83,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3>Meet our <span class="text-orange">toppers</span></h3>
+                    <h3>Meet our <span class="text-green">toppers</span></h3>
                     <p>Meet these shining stars who made it to the top and are proud to be called toppers of their exams.</p>
                 </div>
             </div>
@@ -95,7 +95,7 @@
                             <div class="toppers">
                                 <div class="student-card">
                                     <div class="detail">
-                                        <h4 class="text-orange">91%</h4>
+                                        <h4 class="text-green">91%</h4>
                                         <p class="name">Laxmi</p>
                                         <p class="rank">Result 2023</p>
                                     </div>
@@ -107,7 +107,7 @@
                             <div class="toppers">
                                 <div class="student-card">
                                     <div class="detail">
-                                        <h4 class="text-orange">98.4</h4>
+                                        <h4 class="text-green">98.4</h4>
                                         <p class="name">Aayush Jivrajani</p>
                                         <p class="rank">CBSE Result 2023</p>
                                     </div>
@@ -119,7 +119,7 @@
                             <div class="toppers">
                                 <div class="student-card">
                                     <div class="detail">
-                                    <h4 class="text-orange">98.2</h4>
+                                    <h4 class="text-green">98.2</h4>
                                     <p class="name">Tatva Jani</p>
                                     <p class="rank">CBSE Result 2023</p>
                                     </div>

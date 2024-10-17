@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.7.16"
     },
     "dependencies": {
-        "owl.carousel": "^2.2.0"
+        "owl.carousel": "^2.2.0",
+        "tinymce": "^7.3.0"
     }
 }

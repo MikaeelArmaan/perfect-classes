@@ -106,7 +106,7 @@
   .PC-SlickDots .slick-dots li {
     width: 16px;
     height: 6px;
-    background: var(--pc-light-green) !important;
+    background: var(--white) !important;
     opacity: 0.12;
     transition: 400ms;
     border-radius: 10px;

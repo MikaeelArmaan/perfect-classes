@@ -56,7 +56,7 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
-.text-blue {
+.text-light-green {
   color: var(--pc-light-green);
 }
 
@@ -72,7 +72,7 @@ body {
   color: var(--pc-light-purple);
 }
 
-.text-orange {
+.text-green {
   color: var(--pc-green);
 }
 
@@ -414,7 +414,7 @@ p {
 /* contact-us ends here  */
 
 .banner {
-  min-height: 500px;
+  min-height: auto;
   border-radius: 60px 0 60px;
   padding-bottom: 0;
   background-image: url("../images/pc/verticalwaves.svg");

@@ -36,3 +36,14 @@ Route::post(
 
 
 Route::resource('fileUploads', App\Http\Controllers\FileUploadController::class);
+
+Route::resource('banners', App\Http\Controllers\BannerController::class);
+
+
+Route::resource('images', App\Http\Controllers\imageController::class);
+
+
+Route::resource('bannerImages', App\Http\Controllers\BannerImagesController::class);
+
+
+Route::resource('bannerImages', App\Http\Controllers\BannerImagesController::class);
