@@ -95,7 +95,7 @@
 
 <script>
     $(document).ready(function() {
-        let sliderCount = {{ count($banner->bannerImages) }}; // Start with the count of existing banner images
+        let sliderCount = {{ isset($banner) && $banner->bannerImages?count($banner->bannerImages):0 }}; // Start with the count of existing banner images
 
         function createEditorForDescription(rowId) {
             ClassicEditor
