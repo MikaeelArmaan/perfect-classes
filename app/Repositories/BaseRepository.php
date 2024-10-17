@@ -195,4 +195,18 @@ abstract class BaseRepository
         $query = $this->model->newQuery();
         return $query->count();
     }
+
+    /**
+     * Create bulk model record
+     *
+     * @param array $input
+     *
+     * @return Model
+     */
+    public function insert($input)
+    {
+        $this->model->insert($input);
+
+        return $this->model;
+    }
 }

@@ -10,6 +10,12 @@
         <nav class="mt-2">
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                 @include('layouts.menu')
+                <li class="nav-item">
+                    <a href="/" class="nav-link " target="_blank">
+                        <i class="nav-icon fas fa-globe-asia"></i>
+                        <p><strong>Visit site</strong></p>
+                    </a>
+                </li>
             </ul>
         </nav>
     </div>

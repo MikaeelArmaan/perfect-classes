@@ -96,3 +96,11 @@ $isPermissionActive = Request::is($urlAdmin.'*permissions*');
     </a>
 </li>
 @endcan
+<li class="nav-item">
+    <a href="{{ route('banners.index') }}"
+       class="nav-link {{ Request::is('banners*') ? 'active' : '' }}">
+       <i class="nav-icon fas fa-images"></i>
+        <p>@lang('models/banners.plural')</p>
+    </a>
+</li>
+

@@ -2,6 +2,9 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\API\BannerAPIController;
+use App\Http\Controllers\API\BannerImagesAPIController;
+use App\Http\Controllers\API\imageAPIController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,3 +20,12 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+
+//Route::resource('banners', BannerAPIController::class);
+
+
+//Route::resource('images', imageAPIController::class);
+
+
+//Route::apiResource('banner_images', BannerImagesAPIController::class);
